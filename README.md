@@ -1,1 +1,1 @@
-# hockey-practica-egg
+# Migthy Ducks Hockey League
